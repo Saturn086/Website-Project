@@ -1,5 +1,3 @@
 This is the first code of the webpage!!!
 
-some initial text
-
-More code for version two
+More code for version three
