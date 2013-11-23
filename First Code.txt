@@ -1,3 +1,8 @@
 This is the first code of the webpage!!!
 
+
 This is the code for the contacts webpage!
+
+The bug that caused the problems has been fixed !!! :)
+bug solution code...
+
