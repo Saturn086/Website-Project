@@ -2,6 +2,7 @@ This is the first code of the webpage!!!
 
 
 This is the code for the contacts webpage!
+This is the final code for release
 
 The bug that caused the problems has been fixed !!! :)
 bug solution code...
