@@ -1,5 +1,5 @@
 This is the first code of the webpage!!!
 
-More code for version two
+some initial text
 
-Fixing the undesired bug, evil :o
+More code for version two
