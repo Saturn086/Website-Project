@@ -1,1 +1,4 @@
 This is the first code of the webpage!!!
+
+The bug that caused the problems has been fixed !!! :)
+bug solution code...
